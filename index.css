@@ -1,0 +1,54 @@
+body{
+    background-color:#4887B0
+    
+}
+.headd{
+    margin-top: 3em;
+    color: white;
+    
+}
+.navbar-default{
+
+    background-color: #333333;
+    
+}
+h3{
+    color: white;
+}
+  .form-group{
+      margin-top: 6em;
+      padding-left: 3em;
+      padding-top: 3em;
+      padding-bottom: 5em;
+      background-color: #333333;
+      color: antiquewhite;
+  }
+
+  .chk{
+
+    color: bisque;
+
+  }
+  .inputs{
+    
+    margin-top: 1em;
+    width: 70%;
+    
+  }
+
+  .button{
+
+    width: 26%;
+    margin-right: 9em;
+    float: right;
+   
+
+  }
+  #f1{
+    margin-top: 6em;
+    padding-left: 3em;
+    padding-top: 3em;
+    padding-bottom: 4.71em;
+    background-color: #333333;
+    color: antiquewhite;
+  }
